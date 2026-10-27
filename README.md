@@ -257,7 +257,7 @@ When troubleshooting, keep the exact first Oracle error and the command that pro
 
 ## References
 
-- Course handout: `2-connect-Oracle-23ai-instructions-through-ssh-new.pdf`, supplied with the project materials.
+
 - [Apple: Connect to servers in Terminal on Mac](https://support.apple.com/guide/terminal/connect-to-servers-trml1018/mac)
 - [Oracle: SQL*Plus Quick Start](https://docs.oracle.com/en/database/oracle/oracle-database/26/sqpug/SQL-Plus-quick-start.html)
 - [Oracle: Using Scripts in SQL*Plus](https://docs.oracle.com/en/database/oracle/oracle-database/21/sqpug/using-scripts-in-SQL-Plus.html)
